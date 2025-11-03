@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "自我介绍"
+title                    : "个人简历"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "wumahua/mahua.github.io"
+repository               : "wumahua/wumahua.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "污麻花"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Henan Agricultural University"
-  location         : "Zhengzhou, China"
+  bio              : "河南农业大学"
+  location         : "郑州"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
